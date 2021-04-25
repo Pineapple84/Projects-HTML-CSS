@@ -10,5 +10,9 @@ This web page made up of basic HTML with foundational tags.</br>
 
 ![Tribute Page](https://user-images.githubusercontent.com/60586178/115851010-d4952e80-a469-11eb-9b10-396e0d0b9075.png)
 
+## 2. Media Query
+
+![Media Query](https://user-images.githubusercontent.com/60586178/115977081-c5bc9200-a5b7-11eb-9f29-c753ca25b757.png)
+
 
 -- JavaScript project is more to come ---
