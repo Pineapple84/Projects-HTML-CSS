@@ -12,6 +12,8 @@ This web page made up of basic HTML with foundational tags.</br>
 
 ## 2. Media Query
 
+I have learnt how to use Box, Span, Padding and Margin.</br>
+
 ![Media Query](https://user-images.githubusercontent.com/60586178/115977081-c5bc9200-a5b7-11eb-9f29-c753ca25b757.png)
 
 
