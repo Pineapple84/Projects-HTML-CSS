@@ -20,7 +20,7 @@ I have learnt how to use Box, Span, Padding and Margin.</br>
 ## 3. Google Search Clone
 
 An assignment from CS50 course. The instructor assigned students to create Google Search Clone Page similar to the original Google page as much as possible.
-Most importantly, I have learnt how to use <form>, Get, POST.
+Most importantly, I have learnt how to use form tag, Get, POST.
   
 ![Google Search Clone](https://user-images.githubusercontent.com/60586178/118478131-de513f80-b752-11eb-9bca-0e6aade51ee2.png)
 
