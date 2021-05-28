@@ -16,6 +16,9 @@ I have learnt how to use Box, Span, Padding and Margin.</br>
 
 ![Media Query](https://user-images.githubusercontent.com/60586178/115977081-c5bc9200-a5b7-11eb-9f29-c753ca25b757.png)
 
+## 3. Form Style
+
+![Form Style](https://user-images.githubusercontent.com/60586178/119921251-03467d80-bfb1-11eb-9eac-31ee95ba608d.png)
 
 ## 3. Google Search Clone
 
